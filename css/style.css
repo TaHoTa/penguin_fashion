@@ -1,7 +1,14 @@
 body{
+    color: #363958;
     font-family: 'Montserrat', sans-serif;
+    
 }
 
-section{
+body h1, h2 {    
     font-family: 'Bebas Neue', cursive;
+}
+
+
+
+section{
 }
